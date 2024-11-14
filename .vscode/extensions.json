@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "codium.codium",
+    "mikestead.dotenv",
+    "cschlosser.doxdocgen",
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "davidanson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "aaron-bond.better-comments",
+    "file-icons.file-icons",
+    "antfu.goto-alias",
+    "christian-kohler.path-intellisense",
+    "yoavbls.pretty-ts-errors",
+    "shardulm94.trailing-spaces"
+  ]
+}

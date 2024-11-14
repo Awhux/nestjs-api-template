@@ -1,0 +1,21 @@
+{
+  "eslint.validate": ["typescript"],
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "editor.rulers": [100],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.removeUnusedImports": "explicit"
+  },
+  "files.associations": {
+    "turbo.json": "jsonc"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "auto-close-tag.enableAutoCloseTag": false
+}
